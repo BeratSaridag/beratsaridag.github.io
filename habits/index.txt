@@ -1,0 +1,30 @@
+1:"$Sreact.fragment"
+2:"static/chunks/500-fc3b64d9ff4a32a7.js"
+3:"static/chunks/app/layout-c4688fde95e1cfc0.js"
+4:I[7858,["500","$2","177","$3"],"AppHeader"]
+5:I[8660,["500","$2","177","$3"],"LocalStatus"]
+6:I[7121,[],""]
+7:I[4581,[],""]
+a:I[1304,[],"ClientPageRoot"]
+b:"static/chunks/359-fca1099115d25055.js"
+c:"static/chunks/app/habits/page-c4f3f7750f35e1d3.js"
+d:I[8991,["500","$2","359","$b","192","$c"],"default"]
+10:I[484,[],"OutletBoundary"]
+11:"$Sreact.suspense"
+13:"ViewportBoundary"
+14:I[484,[],"$13"]
+16:"MetadataBoundary"
+17:I[484,[],"$16"]
+19:I[7123,[],"default",1]
+:HL["/_next/static/media/22a5144ee8d83bca-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7d4881bb7e1bf84d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/eb4f26a3bd15c7f1.css","style"]
+9:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$La",null,{"Component":"$d","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@e","$@f"]}}],null,["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}],"p":false,"v":null}}]]
+8:[["children",{"s":"habits","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","div",null,{"className":"mx-auto w-full max-w-3xl px-4 pb-[calc(env(safe-area-inset-bottom)+2rem)] pt-7","children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]]}],"p":false,"v":null},"c":"$Q9"}]]
+0:{"P":null,"c":["","habits",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/eb4f26a3bd15c7f1.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"tr","className":"__variable_8eaea4 __variable_8c25df h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":[["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],"p":false,"v":null},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$L14",null,{"children":"$L15"}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$11",null,{"name":"Next.Metadata","children":"$L18"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$19",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"6hofOi_9fgSTAkjYr0CVC"}
+e:{}
+f:"$9:0:1:d:r:props:children:0:props:serverProvidedParams:params"
+15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#09090b"}],["$","meta","3",{"name":"color-scheme","content":"dark"}]]
+1a:I[6869,[],"IconMark"]
+12:null
+18:[["$","title","0",{"children":"Alışkanlıklar | Personal Hub"}],["$","meta","1",{"name":"description","content":"Günlük alışkanlıklarını ve istikrarını cihazında takip et."}],["$","meta","2",{"name":"application-name","content":"Personal Hub"}],["$","link","3",{"rel":"manifest","href":"/manifest.webmanifest","crossOrigin":"$undefined"}],["$","meta","4",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","5",{"name":"apple-mobile-web-app-title","content":"Personal Hub"}],["$","meta","6",{"name":"apple-mobile-web-app-status-bar-style","content":"black-translucent"}],["$","link","7",{"rel":"icon","href":"/favicon.ico?eb721e31e95df1e4","type":"image/x-icon","sizes":"32x32"}],["$","link","8",{"rel":"icon","href":"/icons/personal-hub.svg","type":"image/svg+xml"}],["$","link","9",{"rel":"apple-touch-icon","href":"/icons/apple-touch-icon.png","sizes":"180x180","type":"image/png"}],["$","$L1a","10",{}]]
