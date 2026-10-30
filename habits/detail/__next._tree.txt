@@ -1,7 +1,5 @@
-:HL["/_next/static/media/22a5144ee8d83bca-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/7d4881bb7e1bf84d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/css/eb4f26a3bd15c7f1.css","style"]
+:HL["/_next/static/css/25169c685863a54b.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":"detail","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"habits","h":96,"c":"$Q2"}]]
-0:{"b":"6hofOi_9fgSTAkjYr0CVC","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"BP-3CRjqwPyLixZcDfU5u","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

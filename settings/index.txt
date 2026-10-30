@@ -1,29 +1,28 @@
 1:"$Sreact.fragment"
 2:"static/chunks/500-fc3b64d9ff4a32a7.js"
-3:"static/chunks/app/layout-c4688fde95e1cfc0.js"
-4:I[7858,["500","$2","177","$3"],"AppHeader"]
+3:"static/chunks/app/layout-d2cb6322c796b551.js"
+4:I[8500,["500","$2","177","$3"],""]
 5:I[8660,["500","$2","177","$3"],"LocalStatus"]
 6:I[7121,[],""]
 7:I[4581,[],""]
 a:I[1304,[],"ClientPageRoot"]
-b:"static/chunks/app/settings/page-cfe0e786f36b5ac5.js"
-c:I[5890,["500","$2","662","$b"],"default"]
-f:I[484,[],"OutletBoundary"]
-10:"$Sreact.suspense"
-12:"ViewportBoundary"
-13:I[484,[],"$12"]
-15:"MetadataBoundary"
-16:I[484,[],"$15"]
-18:I[7123,[],"default",1]
-:HL["/_next/static/media/22a5144ee8d83bca-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/7d4881bb7e1bf84d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/css/eb4f26a3bd15c7f1.css","style"]
-9:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$La",null,{"Component":"$c","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@d","$@e"]}}],null,["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}],"p":false,"v":null}}]]
+b:"static/chunks/915-0cc10d9b0b9d62e2.js"
+c:"static/chunks/app/settings/page-a2ec3710a1855f24.js"
+d:I[5890,["500","$2","915","$b","662","$c"],"default"]
+10:I[484,[],"OutletBoundary"]
+11:"$Sreact.suspense"
+13:"ViewportBoundary"
+14:I[484,[],"$13"]
+16:"MetadataBoundary"
+17:I[484,[],"$16"]
+19:I[7123,[],"default",1]
+:HL["/_next/static/css/25169c685863a54b.css","style"]
+9:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$La",null,{"Component":"$d","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@e","$@f"]}}],null,["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}],"p":false,"v":null}}]]
 8:[["children",{"s":"settings","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":null},"c":"$Q9"}]]
-0:{"P":null,"c":["","settings",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/eb4f26a3bd15c7f1.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"tr","className":"__variable_8eaea4 __variable_8c25df h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":[["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],"p":false,"v":null},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$L13",null,{"children":"$L14"}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$10",null,{"name":"Next.Metadata","children":"$L17"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$18",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"6hofOi_9fgSTAkjYr0CVC"}
-d:{}
-e:"$9:0:1:d:r:props:children:0:props:serverProvidedParams:params"
-14:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#09090b"}],["$","meta","3",{"name":"color-scheme","content":"dark"}]]
-19:I[6869,[],"IconMark"]
-11:null
-17:[["$","title","0",{"children":"Veri Yönetimi | Personal Hub"}],["$","meta","1",{"name":"description","content":"Antrenmanlarını ve günlük hayatını takip edebileceğin kişisel kontrol merkezi."}],["$","meta","2",{"name":"application-name","content":"Personal Hub"}],["$","link","3",{"rel":"manifest","href":"/manifest.webmanifest","crossOrigin":"$undefined"}],["$","meta","4",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","5",{"name":"apple-mobile-web-app-title","content":"Personal Hub"}],["$","meta","6",{"name":"apple-mobile-web-app-status-bar-style","content":"black-translucent"}],["$","link","7",{"rel":"icon","href":"/favicon.ico?eb721e31e95df1e4","type":"image/x-icon","sizes":"32x32"}],["$","link","8",{"rel":"icon","href":"/icons/personal-hub.svg","type":"image/svg+xml"}],["$","link","9",{"rel":"apple-touch-icon","href":"/icons/apple-touch-icon.png","sizes":"180x180","type":"image/png"}],["$","$L19","10",{}]]
+0:{"P":null,"c":["","settings",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/25169c685863a54b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"tr","className":"h-full","children":["$","body",null,{"className":"min-h-full flex flex-col","children":[["$","header",null,{"className":"app-header","children":["$","div",null,{"className":"app-header-inner","children":["$","$L4",null,{"href":"/","aria-label":"Gamify ana sayfa","className":"hub-brand","children":[["$","span",null,{"className":"hub-mark","aria-hidden":"true","children":["$","svg",null,{"width":"32","height":"32","viewBox":"0 0 32 32","children":["$","image",null,{"href":"/art/g-logo.png","width":"32","height":"32"}]}]}],["$","span",null,{"className":"hub-brand-name","children":"Gamify"}]]}]}]}],["$","$L5",null,{}],["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],"p":false,"v":null},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$L14",null,{"children":"$L15"}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$11",null,{"name":"Next.Metadata","children":"$L18"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$19",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"BP-3CRjqwPyLixZcDfU5u"}
+e:{}
+f:"$9:0:1:d:r:props:children:0:props:serverProvidedParams:params"
+15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#10191d"}],["$","meta","3",{"name":"color-scheme","content":"dark"}]]
+1a:I[6869,[],"IconMark"]
+12:null
+18:[["$","title","0",{"children":"Veri Yönetimi | Gamify"}],["$","meta","1",{"name":"description","content":"Antrenman, alışkanlık ve derslerini tek yerden takip et."}],["$","meta","2",{"name":"application-name","content":"Gamify"}],["$","link","3",{"rel":"manifest","href":"/manifest.webmanifest","crossOrigin":"$undefined"}],["$","meta","4",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","5",{"name":"apple-mobile-web-app-title","content":"Gamify"}],["$","meta","6",{"name":"apple-mobile-web-app-status-bar-style","content":"black-translucent"}],["$","link","7",{"rel":"icon","href":"/favicon.ico?79897c802ad555b6","type":"image/x-icon","sizes":"16x16"}],["$","link","8",{"rel":"icon","href":"/icons/gamify.svg","type":"image/svg+xml"}],["$","link","9",{"rel":"apple-touch-icon","href":"/icons/apple-touch-icon.png","sizes":"180x180","type":"image/png"}],["$","$L1a","10",{}]]
