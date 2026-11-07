@@ -1,0 +1,13 @@
+Gamify Journey 1.000 is a modified font derived from Jersey 10.
+Original source: https://github.com/google/fonts/tree/main/ofl/jersey10
+Upstream: https://github.com/scfried/soft-type-jersey
+Original copyright attribution is preserved in the font and adjacent OFL.
+License: SIL Open Font License 1.1, see OFL-Gamify-Journey.txt.
+Modification: lowercase l has a one-native-pixel bottom-right foot.
+The source native pixel is 75 font units; its stem is two pixels wide.
+The stem remains x=0..150, y=0..750; the foot reaches x=225 at y=0..75.
+Its advance increases from 225 to 300 units, leaving a 75-unit right gap.
+Capital I, dotted capital I and Turkish dotless i retain their source shapes.
+Composite glyphs referencing lowercase l may inherit the foot.
+All family/PostScript names are changed to Gamify Journey / GamifyJourney.
+Reproduce with scripts/generate-journey-font.py and installed fonttools.

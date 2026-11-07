@@ -1,5 +1,6 @@
-:HL["/_next/static/css/25169c685863a54b.css","style"]
+:HL["/_next/static/css/9e1934d029a33258.css","style"]
+:HL["/_next/static/css/8067d662a95bc78f.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":"templates","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"fitness","h":96,"c":"$Q2"}]]
-0:{"b":"BP-3CRjqwPyLixZcDfU5u","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"bs0VSQ3B862Lz9fxZicvb","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
